@@ -17,7 +17,7 @@ build/
 # Datasets (if stored locally, especially large or raw data)
 Datasets/
 *.csv
-*.json
+/*.json
 *.xlsx
 
 # Model checkpoints

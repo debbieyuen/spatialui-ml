@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2025-07-11T20:50:42Z",
+        "event" : "projectCreated",
+        "id" : "E3518423-F211-4E76-9A57-CCBA214508C1",
+        "subtitle" : "CrayonObjectTracker",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Debbie Yuen",
+  "createdDate" : "2025-07-11T20:50:42Z",
+  "description" : "",
+  "id" : "68F47A29-9410-4693-B160-E9DBD6328BC3",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2025-07-11T20:50:42Z",
+  "projectName" : "CrayonObjectTracker",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "known3DObjectTracker",
+  "title" : "Object Tracking",
+  "version" : "1.1"
+}
