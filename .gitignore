@@ -20,7 +20,7 @@ Datasets/
 *.json
 *.xlsx
 
-# Model checkpoints (optional, if you only want to keep final models)
+# Model checkpoints
 Checkpoints/
 
 # Python virtual environments (if used alongside)
