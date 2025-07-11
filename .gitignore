@@ -33,4 +33,4 @@ venv/
 *.tar.gz
 
 # Ignore all models, manage via releases
-MLModels/
+# MLModels/
